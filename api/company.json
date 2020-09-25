@@ -1,0 +1,88 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+
+    {
+      "id": 1,
+      "company": "英才科技",
+      "city": "太原",
+      "industry": "计算机行业",
+      "principal": "刘海海",
+      "tel": "1532354567",
+      "state": "合作中",
+      "post": "java开发"
+    },
+    {
+      "id": 2,
+      "company": "英才科技",
+      "city": "太原",
+      "industry": "计算机行业",
+      "principal": "刘海海",
+      "tel": "1532354567",
+      "state": "合作中",
+      "post": "java开发"
+    },
+    {
+      "id":3,
+      "company": "英才科技",
+      "city": "太原",
+      "industry": "计算机行业",
+      "principal": "刘海海",
+      "tel": "1532354567",
+      "state": "合作中",
+      "post": "java开发"
+    },
+    {
+      "id": 4,
+      "company": "英才科技",
+      "city": "太原",
+      "industry": "计算机行业",
+      "principal": "刘海海",
+      "tel": "1532354567",
+      "state": "合作中",
+      "post": "java开发"
+    },
+    {
+      "id":5,
+      "company": "英才科技",
+      "city": "太原",
+      "industry": "计算机行业",
+      "principal": "刘海海",
+      "tel": "1532354567",
+      "state": "合作中",
+      "post": "java开发"
+    },
+    {
+      "id":6,
+      "company": "英才科技",
+      "city": "太原",
+      "industry": "计算机行业",
+      "principal": "刘海海",
+      "tel": "1532354567",
+      "state": "合作中",
+      "post": "java开发"
+    },
+    {
+      "id":7,
+      "company": "英才科技",
+      "city": "太原",
+      "industry": "计算机行业",
+      "principal": "刘海海",
+      "tel": "1532354567",
+      "state": "合作中",
+      "post": "java开发"
+    },
+    {
+      "id": 8,
+      "company": "英才科技",
+      "city": "太原",
+      "industry": "计算机行业",
+      "principal": "",
+      "tel": "",
+      "state": "",
+      "post": ""
+    }
+  ]
+}
